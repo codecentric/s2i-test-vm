@@ -21,7 +21,7 @@ Inside the VM, clone the builder image repository you want to test an then run y
 git clone https://github.com/codecentric/springboot-maven3-centos.git
 cd springboot-maven3-centos
 sudo make test
-``
+```
 
 ## Copyright
 
